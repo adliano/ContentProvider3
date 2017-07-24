@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContentProvider3</string>
+    <string name="contact_permission_denied">Contact Access Denied</string>
+</resources>
